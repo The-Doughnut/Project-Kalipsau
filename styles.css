@@ -1,7 +1,16 @@
 h1{
-	font-family: impact, sans-serif;
+	font-family: arial, sans-serif;
 }
 
 p{
 	font-family: arial, sans-serif;
+}
+
+img{
+	height: 68px;
+	padding: 10px;
+}
+
+#Discord{
+	visibility: hidden;
 }
